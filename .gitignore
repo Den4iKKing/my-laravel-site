@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+.env
+/storage/*.key
+/public/storage
+/storage/app/public
+.idea
+*.log
+*.sqlite
+*.zip
+.env.*

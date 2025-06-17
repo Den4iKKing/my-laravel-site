@@ -1,0 +1,160 @@
+{
+  "_Dashboard-D-iSJIvD.js": {
+    "file": "assets/Dashboard-D-iSJIvD.js",
+    "name": "Dashboard",
+    "imports": [
+      "resources/js/app.ts"
+    ]
+  },
+  "_MainModal-CACzSMUH.js": {
+    "file": "assets/MainModal-CACzSMUH.js",
+    "name": "MainModal",
+    "imports": [
+      "resources/js/app.ts",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ],
+    "css": [
+      "assets/MainModal-DQwjOgb0.css"
+    ]
+  },
+  "_MainModal-DQwjOgb0.css": {
+    "file": "assets/MainModal-DQwjOgb0.css",
+    "src": "_MainModal-DQwjOgb0.css"
+  },
+  "__plugin-vue_export-helper-DlAUqK2U.js": {
+    "file": "assets/_plugin-vue_export-helper-DlAUqK2U.js",
+    "name": "_plugin-vue_export-helper"
+  },
+  "resources/js/Pages/dashboard/bonuses.vue": {
+    "file": "assets/bonuses-DA-V_oc0.js",
+    "name": "bonuses",
+    "src": "resources/js/Pages/dashboard/bonuses.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.ts",
+      "_Dashboard-D-iSJIvD.js",
+      "_MainModal-CACzSMUH.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/dashboard/categories.vue": {
+    "file": "assets/categories-DjmoxJWN.js",
+    "name": "categories",
+    "src": "resources/js/Pages/dashboard/categories.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.ts",
+      "_MainModal-CACzSMUH.js",
+      "_Dashboard-D-iSJIvD.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/dashboard/index.vue": {
+    "file": "assets/index-B9lbNKGA.js",
+    "name": "index",
+    "src": "resources/js/Pages/dashboard/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.ts",
+      "_Dashboard-D-iSJIvD.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ],
+    "css": [
+      "assets/index-BrF0g3tJ.css"
+    ]
+  },
+  "resources/js/Pages/dashboard/logs.vue": {
+    "file": "assets/logs-BoAcHBOF.js",
+    "name": "logs",
+    "src": "resources/js/Pages/dashboard/logs.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.ts",
+      "_Dashboard-D-iSJIvD.js"
+    ]
+  },
+  "resources/js/Pages/dashboard/promocode.vue": {
+    "file": "assets/promocode-DW3VraCP.js",
+    "name": "promocode",
+    "src": "resources/js/Pages/dashboard/promocode.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.ts",
+      "_Dashboard-D-iSJIvD.js",
+      "_MainModal-CACzSMUH.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/dashboard/servers.vue": {
+    "file": "assets/servers-vaHvjw_F.js",
+    "name": "servers",
+    "src": "resources/js/Pages/dashboard/servers.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.ts",
+      "_Dashboard-D-iSJIvD.js",
+      "_MainModal-CACzSMUH.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/dashboard/shop.vue": {
+    "file": "assets/shop-DUzLhmnw.js",
+    "name": "shop",
+    "src": "resources/js/Pages/dashboard/shop.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.ts",
+      "_MainModal-CACzSMUH.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js",
+      "_Dashboard-D-iSJIvD.js"
+    ],
+    "css": [
+      "assets/shop-DcGoX7HE.css"
+    ]
+  },
+  "resources/js/Pages/dashboard/users.vue": {
+    "file": "assets/users-De7KilRv.js",
+    "name": "users",
+    "src": "resources/js/Pages/dashboard/users.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.ts",
+      "_MainModal-CACzSMUH.js",
+      "_Dashboard-D-iSJIvD.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ]
+  },
+  "resources/js/Pages/index.vue": {
+    "file": "assets/index-pkd13efE.js",
+    "name": "index",
+    "src": "resources/js/Pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.ts",
+      "__plugin-vue_export-helper-DlAUqK2U.js"
+    ],
+    "css": [
+      "assets/index-BSjfdFcy.css"
+    ]
+  },
+  "resources/js/app.ts": {
+    "file": "assets/app-B4k5rrsx.js",
+    "name": "app",
+    "src": "resources/js/app.ts",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/dashboard/bonuses.vue",
+      "resources/js/Pages/dashboard/categories.vue",
+      "resources/js/Pages/dashboard/index.vue",
+      "resources/js/Pages/dashboard/logs.vue",
+      "resources/js/Pages/dashboard/promocode.vue",
+      "resources/js/Pages/dashboard/servers.vue",
+      "resources/js/Pages/dashboard/shop.vue",
+      "resources/js/Pages/dashboard/users.vue",
+      "resources/js/Pages/index.vue"
+    ],
+    "css": [
+      "assets/app-CYe1TZM_.css"
+    ]
+  }
+}
